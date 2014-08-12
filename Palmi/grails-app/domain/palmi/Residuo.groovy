@@ -7,6 +7,6 @@ class Residuo {
     }
 	
 	String toString(){
-		"olá"
+		"olá eu sou o residuo"
 	}
 }
